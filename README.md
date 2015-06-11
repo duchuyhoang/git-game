@@ -1,15 +1,22 @@
-# Welcome to the git-game!! 
+# Welcome to the NCC git-game!! 
 
 This is a terminal game designed to test your knowledge of git commands.
 Each level in the game is a task to perform on this repo.
 Once you perform that task, you will be given your next task.
   There are a total of ten levels, each one harder than last!
 
+# Capture the Flag
+
+when you complete a challange the flag is the answer of the challange, you have to summit the answare to this form to gain a +1 point
+
+https://forms.gle/Y4QBLRtdv74oQoFJ9
+
+
 ### Let's get this journey started!! 
 Clone this repository by running:
 
 ```
-$ git clone https://github.com/hgarc014/git-game.git
+$ git clone https://github.com/nccasia/git-game
 ```
 **Don't know a lot about git??**
 
@@ -20,6 +27,10 @@ https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/gi
 https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
 
 Otherwise, you are free to continue...
+
+**You can win a badge for completing this game!**
+
+learn more about badges here: https://openbadgefactory.com/faq
 
 **You should always check the README.md file for your next clue!**
 
